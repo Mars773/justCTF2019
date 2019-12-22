@@ -1,11 +1,10 @@
 # justCTF2019  
 Some writeups of justCTF2019  
 ## FSMir (Reverse 157pt)  
-- ** Description **  
+- *Description*  
 We managed to intercept description of some kind of a security module,   
 but our intern does not know this language. Hopefully you know how to    
 approach this problem.  
-------------
 ```
 E:\vmshare\ctf\justctf2019\reverse\FSMir>python solver.py
 Start:
@@ -70,11 +69,10 @@ ustCTF{SystemVerilog_is_just_C_with_fancy_notation_right?}
 justCTF{SystemVerilog_is_just_C_with_fancy_notation_right?}
 ```
 ## FSMir2 (Reverse 201pt)  
-- **Description**  
+- *Description*  
 We intercepted yet another security module, this time our intern  
 fainted from just looking at the source code, but it's a piece of  
 cake for a hacker like yourself, right?  
------------------------------------------------  
 ```
 E:\vmshare\ctf\justctf2019\reverse\FSMir2>python solver2.py
 justCTF{I_h0p3_y0u_us3d_v3r1L4t0r_0r_sth...}
